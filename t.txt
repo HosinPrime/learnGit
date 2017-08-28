@@ -5,3 +5,5 @@ create a branch is quick and simple
 add merge
 it's not ok
 me
+add merge
+another
